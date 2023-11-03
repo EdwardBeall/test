@@ -1,1 +1,3 @@
-ECHO is on.
+# I'm updating this file
+
+print("Hello!")
